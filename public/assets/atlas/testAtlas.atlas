@@ -1,0 +1,41 @@
+
+testAtlas.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+location
+  rotate: false
+  xy: 406, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+play_btn
+  rotate: false
+  xy: 204, 17
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 2, 2
+  size: 200, 212
+  orig: 200, 212
+  offset: 0, 0
+  index: -1
+retry
+  rotate: false
+  xy: 439, 145
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+warning
+  rotate: false
+  xy: 406, 114
+  size: 31, 100
+  orig: 31, 100
+  offset: 0, 0
+  index: -1
